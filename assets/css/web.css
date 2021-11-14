@@ -208,7 +208,7 @@ html{
 
 #slider{
     padding-top: 55%;
-    background: url('./assets/img/slider5/sl5.jpg') top center / cover no-repeat;
+    background: url('/assets/img/slider5/sl5.jpg') top center / cover no-repeat;
 }
 
 #slider .text-heading{    
@@ -470,7 +470,7 @@ html{
 }
 
 .map{
-    background: url(./assets/img/map/map.png);
+    background: url(/assets/img/map/map.png);
     width: 100%;
     height: 600px;
     border: 1px black solid;
